@@ -1,2 +1,2 @@
-# computernetworks-handins-2018
-Repo for Computer networks and the Internet subject exercises to hand-in.
+# Aleksander Nowak IT-COM5
+Repo for Computer networks and the Internet exercises to hand-in.
